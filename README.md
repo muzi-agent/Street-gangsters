@@ -12,4 +12,4 @@ Street-gangsters 是一个全新的项目，目前刚刚起步，内容仍在持
 
 ## 参与贡献
 
-欢迎通过 [Issue](https://github.com/muzi-agent/Street-gangsters/issues) 提出问题和建议，也欢迎提交 Pull Request 一起完善这个项目。
+欢迎通过 [Issue](https://github.com/muzi-agent/Street-gangsters/issues) 提出问题和建议。提交 Pull Request 前，请先阅读 [贡献指南](CONTRIBUTING.md)。
